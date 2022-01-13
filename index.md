@@ -20,6 +20,8 @@ Hello, world!
 
 [My Github Page](https://github.com/adityatom19/)
 
+[Lab Report 1](https://adityatom19.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+
 ![Star Wars Warpspeed](galaxy.jpeg)
 
 ### This is for a the commit
